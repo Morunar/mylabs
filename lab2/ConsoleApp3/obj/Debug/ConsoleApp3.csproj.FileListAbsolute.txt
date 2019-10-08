@@ -12,3 +12,10 @@ C:\Users\Влад\source\repos\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAsse
 C:\Users\Влад\source\repos\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\Влад\source\repos\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\Влад\source\repos\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Влад\Documents\GitHub\mylabs\lab2\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
