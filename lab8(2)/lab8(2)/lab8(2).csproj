@@ -37,6 +37,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ButtonPhone.cs" />
+    <Compile Include="BlackPhone.cs" />
+    <Compile Include="ColorPhone.cs" />
+    <Compile Include="GoogleGlass.cs" />
+    <Compile Include="iPhone.cs" />
     <Compile Include="OldPhone.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
