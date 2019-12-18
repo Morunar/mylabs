@@ -6,12 +6,12 @@ namespace labaratora8
     {
         private static List<Car> Сars = new List<Car>()
         {
-           new Car(){ Name = "Хюндай",Color = "Серый",Speed = 320,Year=2009},
-           new Car(){ Name = "Ауди",Color = "Белый",Speed = 230,Year=2003},
-           new Car(){ Name = "Мазда",Color = "Синий",Speed = 240,Year=2004},
-           new Car(){ Name = "Жигуль",Color = "Красный",Speed = 250,Year=2017},
-           new Car(){ Name = "Ауди",Color = "Белый",Speed = 270,Year=2017},
-           new Car(){ Name = "Хюндай",Color = "Серый",Speed = 280,Year=2089},
+           new Car(){ Name = "Хюндай",Color = "Серый", Speed = 320, Year=2009},
+           new Car(){ Name = "Ауди",Color = "Белый", Speed = 230, Year=2003},
+           new Car(){ Name = "Мазда",Color = "Синий", Speed = 240, Year=2004},
+           new Car(){ Name = "Жигуль",Color = "Красный", Speed = 250, Year=2017},
+           new Car(){ Name = "Ауди",Color = "Белый", Speed = 270, Year=2017},
+           new Car(){ Name = "Хюндай",Color = "Серый", Speed = 280, Year=2089},
         };
 
         public static IEnumerable<Car> Carss
